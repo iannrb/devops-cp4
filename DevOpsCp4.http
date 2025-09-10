@@ -1,0 +1,6 @@
+@DevOpsCp4_HostAddress = http://localhost:5272
+
+GET {{DevOpsCp4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
