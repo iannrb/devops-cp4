@@ -7,7 +7,6 @@ CRUD API desenvolvida em .NET 9 com Entity Framework Core e Azure SQL Database.
 - **Entities**: Role e Employee com relacionamento
 - **CRUD completo** para ambas as entidades
 - **Azure SQL Database** como banco de dados
-- **Docker** ready
 
 ## Rotas da API
 
